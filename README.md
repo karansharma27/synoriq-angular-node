@@ -13,7 +13,7 @@
 <li>The backend shall be on NodeJS</li>
 <li>RestFul APIs need to be created wherever necessary</li>
 <li>You'll need to use APIs of FB, Google and Youtube for the functionality</li>
-<li>You can use any database tachnology</li>
+<li>You can use any database technology</li>
 <li>You will need to have a decent design with good User Experience.</li>
 </ul>
 
